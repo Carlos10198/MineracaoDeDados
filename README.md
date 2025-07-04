@@ -1,0 +1,2 @@
+# MineracaoDeDados
+Projeto acadêmico
